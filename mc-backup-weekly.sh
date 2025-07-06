@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 #
-# Weekly backups, kept indefinitely
 
 WORLD_DIR="$HOME/minecraft/world"
 BACKUP_DIR="$HOME/minecraft/backups/weekly"
